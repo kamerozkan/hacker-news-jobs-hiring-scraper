@@ -1,0 +1,54 @@
+{
+  "actorSpecification": 1,
+  "title": "Hacker News Jobs",
+  "description": "Dataset of extracted Hacker News tech job leads.",
+  "views": {
+    "overview": {
+      "title": "Jobs Overview",
+      "transformation": {
+        "fields": [
+          "company",
+          "role",
+          "location",
+          "remote",
+          "contactEmail",
+          "url",
+          "hnPostUrl"
+        ]
+      },
+      "display": {
+        "component": "table",
+        "properties": {
+          "company": {
+            "label": "Company",
+            "format": "text"
+          },
+          "role": {
+            "label": "Role",
+            "format": "text"
+          },
+          "location": {
+            "label": "Location",
+            "format": "text"
+          },
+          "remote": {
+            "label": "Remote",
+            "format": "text"
+          },
+          "contactEmail": {
+            "label": "Contact Email",
+            "format": "text"
+          },
+          "url": {
+            "label": "Website",
+            "format": "link"
+          },
+          "hnPostUrl": {
+            "label": "HN Link",
+            "format": "link"
+          }
+        }
+      }
+    }
+  }
+}

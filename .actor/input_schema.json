@@ -1,0 +1,31 @@
+{
+  "title": "Hacker News Hiring Scraper Input",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "maxItems": {
+      "title": "Maximum Job Leads",
+      "type": "integer",
+      "description": "Maximum number of hiring leads to extract.",
+      "default": 30,
+      "minimum": 1,
+      "maximum": 500
+    },
+    "keywordFilter": {
+      "title": "Keyword Filter",
+      "type": "string",
+      "description": "Filter jobs by technology, role, or location (e.g., Python, Remote, React, AI). Leave empty for all.",
+      "editor": "textfield",
+      "default": ""
+    },
+    "remoteOnly": {
+      "title": "Remote Only",
+      "type": "boolean",
+      "description": "Extract only jobs explicitly marked as Remote.",
+      "default": false
+    }
+  },
+  "required": [
+    "maxItems"
+  ]
+}

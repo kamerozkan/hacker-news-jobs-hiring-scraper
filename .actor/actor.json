@@ -1,0 +1,20 @@
+{
+  "actorSpecification": 1,
+  "name": "hacker-news-jobs-hiring-scraper",
+  "title": "Hacker News Jobs & Startup Hiring Scraper (Who Is Hiring)",
+  "description": "Scrape tech jobs, founder emails, salaries, remote policies, and tech stacks directly from official Hacker News Who is Hiring threads. Fast JSON REST API, zero proxy fees, $0.003/lead.",
+  "version": "1.0",
+  "buildTag": "latest",
+  "defaultMemoryMbytes": 256,
+  "minMemoryMbytes": 128,
+  "maxMemoryMbytes": 1024,
+  "meta": {
+    "templateId": "python-start"
+  },
+  "input": "./input_schema.json",
+  "output": "./output_schema.json",
+  "storages": {
+    "dataset": "./dataset_schema.json"
+  },
+  "dockerfile": "../Dockerfile"
+}

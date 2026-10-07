@@ -1,0 +1,20 @@
+{
+  "actor_name": "hacker-news-jobs-hiring-scraper",
+  "actor_id": "m2XTgd7TcKmQooXDM",
+  "duration": 6.0,
+  "items_count": 5,
+  "sample": {
+    "id": "49991656",
+    "company": "Flowstate (London, UK) \u2014 Founding Engineer \u2014 TypeScript / React / Postgres / AI",
+    "role": "Tech Role",
+    "location": "Global",
+    "remote": "On-site",
+    "contactEmail": "",
+    "url": "https://www.flowstate.inc",
+    "summary": "Flowstate (London, UK) \u2014 Founding Engineer \u2014 TypeScript / React / Postgres / AI\n\nFlowstate (<a href=\"https://www.flowstate.inc\" rel=\"nofollow\">https://www.flowstate.inc</a>) is building infrastructure for the emerging human + AI workforce.\n\nCompanies are rapidly adopting Claude, ChatGPT, Cursor, Cop...",
+    "fullText": "Flowstate (London, UK) \u2014 Founding Engineer \u2014 TypeScript / React / Postgres / AI\n\nFlowstate (<a href=\"https://www.flowstate.inc\" rel=\"nofollow\">https://www.flowstate.inc</a>) is building infrastructure for the emerging human + AI workforce.\n\nCompanies are rapidly adopting Claude, ChatGPT, Cursor, Copilot and internal agents, but most still have very little idea what that AI is actually doing, what it costs, what work it contributes to or whether it is making the organisation better.\n\nWe\u2019re building the systems underneath that: an AI router and proxy, native macOS and Windows apps, attribution infrastructure that connects AI activity back to work and tools for understanding how humans and AI should operate together inside a company.\n\nWe\u2019re a small early-stage team and this is a genuinely broad founding engineering role. You\u2019ll work across product, infrastructure, integrations, desktop apps, AI systems and whatever else needs building. We\u2019re looking for someone who has worked in an early-stage startup before and actually enjoys the pace, ambiguity and ownership that comes with it.\n\nDetails:\n- Location: London, UK\n- Working style: Hybrid, with regular time together in the office\n- Salary: \u00a3100k\u2013\u00a3120k\n- Equity: 0.5%\u20131.5%\n- Benefits: Gym membership, breakfast and flexible hours\n- Role: Full-time\n\nApply: <a href=\"https://www.flowstate.inc/careers/\" rel=\"nofollow\">https://www.flowstate.inc/careers/</a>",
+    "hnPostUrl": "https://news.ycombinator.com/item?id=49991656",
+    "postedAt": "2026-10-07T12:11:44+00:00",
+    "extractedAt": "2026-10-07T12:12:49.099367+00:00"
+  }
+}

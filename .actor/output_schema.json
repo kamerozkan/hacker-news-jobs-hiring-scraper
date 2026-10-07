@@ -1,0 +1,13 @@
+{
+  "actorOutputSchemaVersion": 1,
+  "title": "Hacker News Hiring Output",
+  "description": "Structured dataset of startup job openings and founder contact leads.",
+  "properties": {
+    "results": {
+      "type": "string",
+      "title": "Hiring Dataset",
+      "description": "Default dataset containing extracted job leads.",
+      "template": "{{links.apiDefaultDatasetUrl}}/items"
+    }
+  }
+}
